@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+mlflow
+protobuf==3.20.3
+model-card-toolkit
+google-cloud-storage
+jinja2
+python-slugify
+scikit-learn
+markdown
+pyyaml
+jsonschema
+matplotlib
